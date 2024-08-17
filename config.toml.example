@@ -1,0 +1,4 @@
+ws_url = "wss://dev.rotko.net/rococo-people"
+db_path = "identity_events.db"
+reg_seed = "//Ferdie"
+reg_index = 0
